@@ -1,0 +1,19 @@
+2025-02-04 17:14:32,267 - ERROR - Ошибка загрузки данных. Проверьте input.csv
+2025-02-04 17:15:00,715 - ERROR - Ошибка в main.py: 'Value'
+2025-02-04 17:36:30,649 - ERROR - ❌ Ошибка в main.py: 'Value'
+2025-02-04 17:39:41,211 - ERROR - ❌ Ошибка в main.py: unsupported operand type(s) for +: 'int' and 'str'
+2025-02-04 17:58:39,925 - ERROR - ❌ Ошибка в main.py: unsupported operand type(s) for +: 'int' and 'str'
+2025-02-04 17:59:56,184 - ERROR - Ошибка загрузки данных. Проверь input.csv
+2025-02-04 18:00:12,829 - ERROR - Ошибка загрузки данных. Проверь input.csv
+2025-02-04 18:00:25,895 - ERROR - Ошибка в main.py: unsupported operand type(s) for +: 'int' and 'str'
+2025-02-04 18:16:52,701 - ERROR - ❌ Ошибка в main.py: unsupported operand type(s) for ** or pow(): 'str' and 'int'
+2025-02-04 18:17:57,408 - ERROR - ❌ Ошибка в main.py: unsupported operand type(s) for ** or pow(): 'str' and 'int'
+2025-02-04 18:19:10,365 - ERROR - ❌ Ошибка в main.py: unsupported operand type(s) for ** or pow(): 'str' and 'int'
+2025-02-04 18:20:50,294 - ERROR - ❌ Ошибка в main.py: unsupported operand type(s) for ** or pow(): 'str' and 'int'2025-02-04 19:01:57,214 - INFO - Данные успешно загружены.
+2025-02-04 19:01:57,233 - INFO - Анализ успешно завершен.
+2025-02-04 19:01:57,237 - ERROR - ❌ Ошибка в main.py: Per-column arrays must each be 1-dimensional
+2025-02-04 19:06:02,252 - INFO - Данные успешно загружены.
+2025-02-04 19:06:02,252 - ERROR - ❌ Ошибка в main.py: name 'convert_to_dataframe' is not defined
+2025-02-04 19:06:17,733 - INFO - Данные успешно загружены.
+2025-02-04 19:06:17,750 - INFO - Анализ успешно завершен.
+2025-02-04 19:06:17,758 - ERROR - ❌ Ошибка в main.py: ❌ Ошибка сохранения файла data/output/kano_Attractive.csv: ⚠️ Данные пустые, файл data/output/kano_Attractive.csv не будет создан.

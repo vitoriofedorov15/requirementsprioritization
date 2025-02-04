@@ -1,0 +1,6 @@
+Requirement_ID,Category,Satisfaction,Effect,Weight
+R1,Must Have,0.75,0.95,0.85
+R2,Should Have,0.55,0.65,0.65
+R3,Could Have,0.35,0.45,0.55
+R4,Must Have,0.85,1.05,0.95
+R5,Won't Have,0.25,0.15,0.35

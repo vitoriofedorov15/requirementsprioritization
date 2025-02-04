@@ -1,0 +1,5 @@
+{
+    "log_level": "INFO",
+    "default_data_path": "data/input.csv",
+    "output_directory": "data/results"
+}
